@@ -10,7 +10,7 @@ from airflow.utils.task_group import TaskGroup
 aws_conn_id = "class_datasets_aws_bucket"
 bucket_name = "classdatasets"
 stocks_filename = "stocks.txt"
-subfolder = "instructor"
+subfolder = "dc3"
 stock_prices_filename = "stock_prices.txt"
 stock_volumes_filename = "stock_volumes.txt"
 
